@@ -1,0 +1,40 @@
+body {
+    background-color: chartreuse;
+}
+
+.tittle{
+    font-size: 3em;
+    color: chocolate;
+
+}
+
+#principal{
+    font-size: 1em;
+}
+.card{
+    border: 2px solid black;
+    width: fit-content;
+    padding: 0em 1em 0em 1em;
+    border-radius: 15%;
+
+}
+
+.card :hover{
+    background-color: darkred;
+}
+
+.OS{
+    width: 5em;
+
+}
+
+.phone{
+    width: 2.5em;
+}
+
+#titulos{
+    border: 2px solid black;
+    margin: ;
+    width: 60 vw;
+    padding: 3em;
+}
