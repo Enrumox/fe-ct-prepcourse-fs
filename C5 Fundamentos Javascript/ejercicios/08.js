@@ -8,10 +8,12 @@ function esNumeroEntero(numero) {
   // 121.212 ---> false 
   // Tu código:
 
-  if (numero > 0 ) return true
+  var numeroentero (numero % 2)
+
+  if (numeroentero > 0 ) return true
   else return false
 
-
+ Number.isInteger
 
 
 }
